@@ -68,7 +68,7 @@
             createButton("10x", 10);
             createButton("Reset", 1);
 
-        }, 1000);
+        }, 2000);
     });
 
 })();
